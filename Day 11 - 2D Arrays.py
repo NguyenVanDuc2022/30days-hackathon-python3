@@ -1,7 +1,7 @@
 """
 Day 11 - Given 6x6 2D array, A.
 Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
---- Nguyen Van Duc ---
+--- Nguyen Van Duc --- 
 """
 
 if __name__ == "__main__":
